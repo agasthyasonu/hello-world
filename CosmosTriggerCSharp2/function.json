@@ -1,0 +1,15 @@
+{
+  "bindings": [
+    {
+      "type": "cosmosDBTrigger",
+      "name": "documents",
+      "direction": "in",
+      "leaseCollectionName": "mycol",
+      "connectionStringSetting": "sonur_DOCUMENTDB",
+      "databaseName": "mydb",
+      "collectionName": "leases",
+      "createLeaseCollectionIfNotExists": true
+    }
+  ],
+  "disabled": false
+}

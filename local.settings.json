@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "sonur_DOCUMENTDB": "AccountEndpoint=https://sonur.documents.azure.com:443/;AccountKey=HsDi1trpYNI76XWMzHgquDZwdcI4Yo8yIQpomZaV7ok8qzYQfdlpkuKGfBB5JA9ZJQkL5GSINErTh26kdZuI4g==;",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=sonurbd0d;AccountKey=IATHVj/dQ1Igc/7F3/bBYXmb6jHa1mOEnSIk0WuZcNwh3L7xKOY3Ml2T0J2N7LYqsgmC/qY7suhoOBlAL3QKKg==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=sonurbd0d;AccountKey=IATHVj/dQ1Igc/7F3/bBYXmb6jHa1mOEnSIk0WuZcNwh3L7xKOY3Ml2T0J2N7LYqsgmC/qY7suhoOBlAL3QKKg==",
+    "WEBSITE_CONTENTSHARE": "sonur-de5358b2",
+    "WEBSITE_SITE_NAME": "sonur",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=sonurbd0d;AccountKey=IATHVj/dQ1Igc/7F3/bBYXmb6jHa1mOEnSIk0WuZcNwh3L7xKOY3Ml2T0J2N7LYqsgmC/qY7suhoOBlAL3QKKg=="
+  }
+}
